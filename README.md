@@ -1,8 +1,8 @@
 
-consistent hashing algorithm:
-simple implementation of consistent hashing algorithm for distribute system
+## consistent hashing algorithm
+simple implementation of consistent hashing algorithm for distribute system<br>
 
-build:
-cd consistent_hashing
-mkdir build
-make
+build:<br>
+cd consistent_hashing<br>
+mkdir build<br>
+make<br>
